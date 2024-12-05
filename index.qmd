@@ -1,0 +1,29 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/photo_m.jpg"
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:mxm1760@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I am a second-year Ph.D. student in clinical psychology at Case Western Reserve University. My research interests focus mainly on child and adolescent mental health, including family and parent-child relationships, parenting interventions, and youth experiences of mental health treatment. 
+
+I received my bachelor's degree from the University of California, Irvine and worked as a K-12 educator in several settings in Los Angeles before transitioning to psychology. Prior to starting graduate school I held research positions with Dr. Jessica Borelli and Dr. Belinda Campos (both at UC Irvine), and Dr. Daniel Shaw (at the University of Pittsburgh). I have experience with both qualitative and quantitative data collection and analysis, primarily with young children (age 6 and under) and their families.
+
+
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+
