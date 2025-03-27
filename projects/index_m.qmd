@@ -1,0 +1,16 @@
+---
+title: "index_m"
+editor: visual
+---
+
+---
+title: Projects
+---
+
+## Middle School Success Over Stress Study (MSSOS)
+
+## This study, a collaboration between Case Western Reserve University and the University of Oregon, tests the efficacy and feasibility of the Family Check-Up Online (FCUO)--a fully virtual version of the Family Check-Up parent-training program. The FCUO includes live video-call sessions with a trained parent coach, as well as a mobile parenting app. Participation can be completed in as few as two sessions, and because the intervention is fully remote, it is far more accessible to busy parents, particularly those living in remote areas.
+
+## Youth Attitudes Toward Mental Help Seeking
+
+## Adolescence and emerging adulthood are key timepoints for the emergence of mental health disorders. However, individuals in these groups often do not seek mental health services or leave treatment prematurely. I am conducting qualitative interviews with teenagers and young adults to better understand their attitudes toward and experiences with seeking mental health care. These data will inform the development of a protocol I am developing to improve clinicians' relationship-building efforts at the start of psychotherapy, thereby improving the treatment experiencing and reducing dropout rates.
